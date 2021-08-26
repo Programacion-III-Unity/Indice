@@ -13,3 +13,7 @@ Repos con ejemplos de codigo para mis alumnos de Programacion III de la Escuela 
 2. **Input System con arquitectura distribuida**
 - Ejemplo donde al repo anterior, se le modifica su arquitectura para no tener toda la logica en un script unico, sino que se separa el jugador, movimiento e Input en 3 scripts coordinados interactuando entre ellos.
 - Repo [https://github.com/Programacion-III-Unity/Input-con-arquitectura-distribuida](https://github.com/Programacion-III-Unity/Input-con-arquitectura-distribuida)
+
+4. **Menu principal**
+- Ejemplo de un menu princial con menu de opciones (funcional), iniciar el juego y salir del juego.
+- Repo [https://github.com/Programacion-III-Unity/MenuPrincipal](https://github.com/Programacion-III-Unity/MenuPrincipal)
